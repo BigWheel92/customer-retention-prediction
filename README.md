@@ -2,4 +2,4 @@
 an implementation of ann-based model to predict customer retention
 
 Dataset Description:
-There are details of a bank&#39;s customers and the target variable is a binary variable reflecting the fact whether the customer left the bank (closed his/her account) or continues to be a customer.
+There are different attributes of a customer: CustomerId, Surname, CreditScore, Geography, Gender, Age, Tenure, Balance, NumOfProducts, HasCrCard, IsActiveMember, EstimatedSalary, and Exited. The Exited attribute is the target variable which is binary and relfects whether the customer left the bank (closed their account) or continues to be a customer.
